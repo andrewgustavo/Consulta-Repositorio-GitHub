@@ -37,4 +37,8 @@ export const LinkHome = styled(Link)`
     text-decoration: none;
     color: #fff;
     border-radius: .25rem .25rem .25rem .25rem;
+
+    &: hover {
+        background-color: #cc4343;
+    }
 `;
